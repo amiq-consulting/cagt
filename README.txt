@@ -1,0 +1,17 @@
+*Company:     AMIQ Consulting S.R.L.
+
+*Project:     Common Agent
+
+*Engineer:    Cristian Florin Slav (cristian.slav@amiq.com)
+
+*Description:
+              cagt is a SystemVerilog generic agent, implemented based on UVM methodology.
+              This agent can be easily extended to create very fast an UVM based agent for any protocol.
+              The minimum required effort is to:
+
+	              - declare the interface and a virtual interface type
+	              - declare driving and monitoring items
+	              - implement task for driving just one item - see drive_transaction() task in the driver
+	              - implement task for monitoring just one item - see collect_transaction() task from the monitor
+	              - implement function for detecting start of reset - see wait_reset_start() function from agent configuration
+	              - implement function for detecting end of reset - see wait_reset_end() function from agent configuration
