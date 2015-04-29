@@ -15,8 +15,6 @@
  *
  * MODULE:      cagt_sequencer.sv
  * PROJECT:     Common Agent
- * Engineer(s): Cristian Florin Slav (cristian.slav@amiq.com)
- *
  * Description: This file contains the declaration of the sequencer class.
  *******************************************************************************/
 

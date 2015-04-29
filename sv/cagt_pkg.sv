@@ -15,8 +15,6 @@
  *
  * MODULE:      cagt_pkg.sv
  * PROJECT:     Common Agent
- * Engineer(s): Cristian Florin Slav (cristian.slav@amiq.com)
- *
  * Description: This file contains all the includes of the cagt_pkg package.
  *******************************************************************************/
 

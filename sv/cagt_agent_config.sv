@@ -15,8 +15,6 @@
  *
  * MODULE:      cagt_agent_config.sv
  * PROJECT:     Common Agent
- * Engineer(s): Cristian Florin Slav (cristian.slav@amiq.com)
- *
  * Description: This file contains the declaration of the agent configuration class.
  *******************************************************************************/
 

@@ -2,8 +2,6 @@
 
 *Project:     Common Agent
 
-*Engineer:    Cristian Florin Slav (cristian.slav@amiq.com)
-
 *Description:
               cagt is a SystemVerilog generic agent, implemented based on UVM methodology.
               This agent can be easily extended to create very fast an UVM based agent for any protocol.
